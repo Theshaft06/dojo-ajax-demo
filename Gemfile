@@ -34,6 +34,8 @@ end
 
 gem 'simple_form'
 
+gem 'best_in_place'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
